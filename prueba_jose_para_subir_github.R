@@ -1,0 +1,7 @@
+install.packages("tidyverse")
+install.packages("dplyr")
+install.packages("tidyr")
+library(tidyverse)
+library(dplyr)
+library(tidyr)
+Hoja_de_cálculo_sin_título%>%summarise(min(...17),max(...17))
